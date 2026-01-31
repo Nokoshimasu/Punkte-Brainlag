@@ -1,0 +1,1 @@
+## Punkteanzeige für ein Quizspiel
